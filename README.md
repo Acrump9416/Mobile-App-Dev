@@ -18,7 +18,7 @@ This app allows the user to see what food is at each dining hall per day
 - **Category:** Food
 - **Mobile:** Pulls info from a website but is designed for mobile use
 - **Story:** 
-- **Market:** VCU campus residents
+- **Market:** VSU campus residents
 - **Habit:**
 - **Scope:**
 
